@@ -1,1 +1,3 @@
-# routebook2
+# springboot-skeleton
+
+Springboot Project Skeleton
